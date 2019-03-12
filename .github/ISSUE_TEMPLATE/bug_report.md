@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**CTMS version being used (e.g. CTMS v5.0 alpha 1 Build 102)**
+Which version of CTMS is the bug found in?
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
