@@ -23,8 +23,8 @@ Steps to reproduce the behaviour:
 **Expected behaviour**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Error Message Screenshots**
+Screenshot of error message.
 
 **Additional context**
 Add any other context about the problem here.
