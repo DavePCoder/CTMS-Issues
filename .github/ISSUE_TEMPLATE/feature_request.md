@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 
 ---
-**DO NOT inclulde any sensitive data or screenshots**
+**DO NOT include any sensitive data or screenshots**
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
