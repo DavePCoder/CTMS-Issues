@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+**DO NOT include any sensitive data**
 
 **CTMS version being used (e.g. CTMS v5.0 alpha 1 Build 102)**
 Which version of CTMS is the bug found in?
@@ -23,8 +24,8 @@ Steps to reproduce the behaviour:
 **Expected behaviour**
 A clear and concise description of what you expected to happen.
 
-**Error Message Screenshots**
-Screenshot of error message.
+**Paste Error Message Log here, if providing a screenshot do not include any sensitive data**
+Log / Screenshot of error message.
 
 **Additional context**
 Add any other context about the problem here.
